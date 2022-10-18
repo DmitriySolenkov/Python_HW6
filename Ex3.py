@@ -1,3 +1,4 @@
+# Семинар 2 Задание 3
 num = int(input('Enter N-number:'))
 sum=0
 lamb=lambda x: (1+(1/x))**x
